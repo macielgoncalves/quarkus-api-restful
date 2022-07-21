@@ -55,6 +55,26 @@ If you want to learn more about building native executables, please consult http
 
 ### RESTEasy JAX-RS
 
+## Adicionar uma extenção no Quarkus
+
+Usar o comando abaixo para Listas as Extensões Disponíveis:
+```
+./mvnw quarkus:list-extensions
+```
+
+Usar o comando abaixo para instalar uma exteção:
+```
+./mvnw quarkus:add-extension -Dextensions="jdbc-postgresql"
+```
+
+## Criar Maven Wrapper
+
+Utilize o comando abaixo para configurar o uso do ./mvnw:
+```
+mvn -N wrapper:wrapper
+```
+
+
 Easily start your RESTful Web Services
 
 [Related guide section...](https://quarkus.io/guides/getting-started#the-jax-rs-resources)

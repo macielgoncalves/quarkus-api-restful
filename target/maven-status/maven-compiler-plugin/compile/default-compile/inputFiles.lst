@@ -1,1 +1,5 @@
+/Users/maciel.kamers.g/Repositorios/udemy/quarkus-api-restful/src/main/java/br/com/macielgoncalves/quarkussocial/rest/dto/CreateUserRequest.java
+/Users/maciel.kamers.g/Repositorios/udemy/quarkus-api-restful/src/main/java/br/com/macielgoncalves/quarkussocial/model/domain/User.java
+/Users/maciel.kamers.g/Repositorios/udemy/quarkus-api-restful/src/main/java/br/com/macielgoncalves/quarkussocial/model/repository/UserRepository.java
 /Users/maciel.kamers.g/Repositorios/udemy/quarkus-api-restful/src/main/java/br/com/macielgoncalves/GreetingResource.java
+/Users/maciel.kamers.g/Repositorios/udemy/quarkus-api-restful/src/main/java/br/com/macielgoncalves/quarkussocial/rest/UserResources.java

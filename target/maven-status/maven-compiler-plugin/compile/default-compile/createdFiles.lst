@@ -1,1 +1,7 @@
+br/com/macielgoncalves/quarkussocial/rest/PostResources.class
+br/com/macielgoncalves/quarkussocial/rest/UserResources.class
+META-INF/panache-archive.marker
+br/com/macielgoncalves/quarkussocial/model/repository/UserRepository.class
+br/com/macielgoncalves/quarkussocial/rest/dto/CreateUserRequest.class
+br/com/macielgoncalves/quarkussocial/model/domain/User.class
 br/com/macielgoncalves/GreetingResource.class
